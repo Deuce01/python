@@ -69,6 +69,4 @@ Feel free to explore the scripts and use them for your learning and automation n
 
 ---
 
-## Repository Files Navigation
 
-[Click here to navigate to repository files](#)
